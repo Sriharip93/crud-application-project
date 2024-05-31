@@ -3,7 +3,7 @@ package com.srihari.emp.dao;
 import java.util.List;
 
 import com.srihari.emp.model.Employee;
-
+//doa layer change
 public interface EmployeeDAO {
 
 	public abstract List<Employee> getAllEmployees();
