@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="crud-application-project">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/crud_projectWS/Drud_project/src"/>
+        <property name="context-root" value="crud-application-project"/>
+        <property name="java-output-path" value="/crud-application-project/crud_projectWS/Drud_project/build/classes"/>
+    </wb-module>
+</project-modules>
